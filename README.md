@@ -6,7 +6,11 @@
 
 - 16 y/o self-taught developer  
 - Currently learning *Node.js & MongoDB*
-  
+  <p align="center">
+  <a href="https://anirban-roy628.github.io/myportfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 ---
 
 ## Tech Stack
