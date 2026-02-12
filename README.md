@@ -20,20 +20,10 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anirban-roy628&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirban-roy628&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
-
-## Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anirban-roy628&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## Featured Projects
 
 - Space Gravity Simulation 
